@@ -578,6 +578,11 @@ footer {
   float: left;
 }
 
+.made-with-love a:link,
+.made-with-love a:visited {
+  border-bottom: 2px solid transparent;
+}
+
 .social-links {
   list-style: none;
   float: right;
